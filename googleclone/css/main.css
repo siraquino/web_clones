@@ -15,7 +15,6 @@ header {
 header nav {
     display: flex;
     justify-content: flex-end;
-    border: solid 1px red;
 }
 header nav .nav-right-section {
     width: 250px;
@@ -24,7 +23,6 @@ header nav .nav-right-section {
     list-style: none;
     justify-content: center;
     align-items: center;
-    border: solid 1px blue;
 }
 nav .nav-right-section a {
     margin-right: 10px;
